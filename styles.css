@@ -17,13 +17,13 @@ body {
   filter: blur(50px);
 }
 #grid {
-  /* padding: 50px; */
+  
   margin: auto;
   background-color: #f5f5f5;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 
-  padding: 100px 200px;
+  padding: 100px 50px;
   row-gap: 80px;
 }
 .container {
